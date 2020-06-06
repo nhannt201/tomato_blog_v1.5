@@ -1,0 +1,3 @@
+Đây là Function giúp người dùng viết phần code tuỳ thích
+Tất cả các hàm head và meta phổ biến được gán vào đây, và được gom gọn lại thành Function
+Người dùng có thể sử dụng linh hoạt thay đổi tuỳ thích.
