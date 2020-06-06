@@ -1,0 +1,12 @@
+    HƯỚNG DẪN CÀI ĐẶT CODE TOMATO BLOG V1
+BƯỚC I: Truy cập vào thư mục incfiles/config.php cấu hình Blog
+    +   $servername =  Máy chủ host phpMyAdmin
+    +   $username = Tài khoản truy cập Database
+    +   $password = Mật khẩu
+    +   $dbname = Tên Database
+    +   $home = URL trang chủ blog.
+BƯỚC II: Truy cập vào trang chủ /install để cài đặt Database
+BƯỚC III: Đăng ký tài khoản đầu tiên để bắt đầu thiết lập Admin Cpanel
+BUỐC IV: Truy cập Admin tiến hành tạo Chuyên mục "Dashboard / Chuyên Mục"
+Chúc các bạn thành công!
+                                               
